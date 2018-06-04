@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopLight", "StopLight\StopLight.csproj", "{2B863534-872A-4B84-950E-A5923F15A58E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stoplight", "StopLight\Stoplight.csproj", "{2B863534-872A-4B84-950E-A5923F15A58E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
